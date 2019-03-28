@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 畅邮（DM Pro）博客
 
 You can use the [editor on GitHub](https://github.com/xmc1204/Cy-Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
